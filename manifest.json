@@ -1,7 +1,7 @@
 {
   "id": "psych-counseling-room",
   "name": "心理咨询室",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "AI 心理陪伴与自我成长记录工具：疏导情绪、梳理心路历程、适时提供心理自评量表。非医疗诊断，不能替代专业心理咨询/精神科诊疗。",
   "author": "laliandyunhe",
   "entry": "https://raw.githubusercontent.com/laliandyunhe/psy/main/plugin.js",
