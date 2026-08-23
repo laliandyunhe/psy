@@ -1,0 +1,15 @@
+{
+  "id": "psych-counseling-room",
+  "name": "心理咨询室·日记",
+  "version": "2.0.0",
+  "description": "一本属于你的心理成长日记。写下心事，可选发送给AI咨询师，获得温暖回应与成长档案更新。一年一本，记录每一个值得被看见的瞬间。",
+  "author": "Operit & laliandyunhe",
+  "entry": "https://raw.githubusercontent.com/laliandyunhe/psy/main/plugin.js",
+  "hash": "",
+  "permissions": [
+    "ai:chat",
+    "storage",
+    "ui",
+    "memory:write"
+  ]
+}
